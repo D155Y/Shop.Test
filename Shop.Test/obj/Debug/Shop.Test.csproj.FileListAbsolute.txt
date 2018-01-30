@@ -1,0 +1,5 @@
+C:\Git\Shop.Test\Shop.Test\Shop.Test\bin\Debug\Shop.Test.dll
+C:\Git\Shop.Test\Shop.Test\Shop.Test\bin\Debug\Shop.Test.pdb
+C:\Git\Shop.Test\Shop.Test\Shop.Test\obj\Debug\Shop.Test.dll
+C:\Git\Shop.Test\Shop.Test\Shop.Test\obj\Debug\Shop.Test.pdb
+C:\Git\Shop.Test\Shop.Test\Shop.Test\obj\Debug\Shop.Test.csprojResolveAssemblyReference.cache
