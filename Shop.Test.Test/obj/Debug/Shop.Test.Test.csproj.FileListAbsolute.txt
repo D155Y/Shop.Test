@@ -7,3 +7,12 @@ C:\Git\Shop.Test\Shop.Test\Shop.Test.Test\bin\Debug\nunit.framework.xml
 C:\Git\Shop.Test\Shop.Test\Shop.Test.Test\obj\Debug\Shop.Test.Test.csprojResolveAssemblyReference.cache
 C:\Git\Shop.Test\Shop.Test\Shop.Test.Test\obj\Debug\Shop.Test.Test.dll
 C:\Git\Shop.Test\Shop.Test\Shop.Test.Test\obj\Debug\Shop.Test.Test.pdb
+C:\Git\Shop.Test\Shop.Test.Test\bin\Debug\Shop.Test.Test.dll
+C:\Git\Shop.Test\Shop.Test.Test\bin\Debug\Shop.Test.Test.pdb
+C:\Git\Shop.Test\Shop.Test.Test\bin\Debug\nunit.framework.dll
+C:\Git\Shop.Test\Shop.Test.Test\bin\Debug\Shop.Test.dll
+C:\Git\Shop.Test\Shop.Test.Test\bin\Debug\Shop.Test.pdb
+C:\Git\Shop.Test\Shop.Test.Test\bin\Debug\nunit.framework.xml
+C:\Git\Shop.Test\Shop.Test.Test\obj\Debug\Shop.Test.Test.csprojResolveAssemblyReference.cache
+C:\Git\Shop.Test\Shop.Test.Test\obj\Debug\Shop.Test.Test.dll
+C:\Git\Shop.Test\Shop.Test.Test\obj\Debug\Shop.Test.Test.pdb

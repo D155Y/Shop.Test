@@ -4,7 +4,7 @@ using Shop.Test.Interface;
 
 namespace Shop.Test.ShoppingActivities
 {
-    class CheckOut : ICheckOut
+    public class CheckOut : ICheckOut
     {
         private readonly ICalculatePrice _calculatePrice;
 
